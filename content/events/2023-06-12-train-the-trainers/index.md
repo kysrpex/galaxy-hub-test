@@ -22,7 +22,7 @@ To deliver this curriculum, we organize a **4 half-day** **online** and **free w
 - lesson, session, course, and material design
 - assessment and feedback.
 
-<a  class="btn w-100 btn-primary btn-lg" href="https://forms.gle/uEn2RJ52v8WavyU76">Register here before May 31st</a>
+<div class="btn w-100 btn-primary btn-lg">Registration closed</div>
 
 
 # General information
@@ -93,6 +93,7 @@ This workshop is over, all the training materials will stay online at [https://t
 - Cristóbal Gallardo, University of Freiburg, Germany
 - Bérénice Batut, University of Freiburg, Germany
 - Fotis Psomopoulos, INAB|CERTH, Thessaloniki, Greece
+- Pradeep Eranti
 
 # Supporters
 
